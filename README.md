@@ -15,7 +15,7 @@ Developed by  Roni Khizverg .
 
 * [MPI](https://www.mcs.anl.gov/research/projects/mpi/)
 * [OpenMP](https://tildesites.bowdoin.edu/~ltoma/teaching/cs3225-GIS/fall17/Lectures/openmp.html)
-* [Cuda]([https://tildesites.bowdoin.edu/~ltoma/teaching/cs3225-GIS/fall17/Lectures/openmp.html](https://developer.nvidia.com/cuda-toolkit))
+* [Cuda](https://developer.nvidia.com/cuda-toolkit)
 
 ## To run this program on terminal use the following commands:
 
