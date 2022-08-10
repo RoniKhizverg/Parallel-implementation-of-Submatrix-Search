@@ -15,7 +15,7 @@ Developed by  Roni Khizverg .
 
 * [MPI](https://www.mcs.anl.gov/research/projects/mpi/)
 * [OpenMP](https://tildesites.bowdoin.edu/~ltoma/teaching/cs3225-GIS/fall17/Lectures/openmp.html)
-* [Cuda] (https://developer.nvidia.com/cuda-toolkit)
+* [Cuda]([https://tildesites.bowdoin.edu/~ltoma/teaching/cs3225-GIS/fall17/Lectures/openmp.html](https://developer.nvidia.com/cuda-toolkit))
 
 ## To run this program on terminal use the following commands:
 
@@ -23,7 +23,7 @@ Developed by  Roni Khizverg .
 
 2. make run 
 
-Output:
+## Output:
 
 Picture 0: found Object 1 in Position(100,200)
 
@@ -32,6 +32,7 @@ Picture 1: No Objects were found
 Picture 2: found Object 0 in Position(800,800)
 
 sequential time: 44 sec.
+<br />
 Parallel time: 8 sec.
 
 
